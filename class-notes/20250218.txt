@@ -1,0 +1,13 @@
+Categories of data types
+	1. Primitive/Primary/Fundamental	-	int, float, char, double		int a
+	2. Derived				-	array, function, pointer		int a[], int isPrime(), int *p
+	3. User-defined				-	struct, union, Enum, typedef
+
+
+	float = single-precision floating point number
+	double= double-precision floating point number
+
+	General purpose
+	Scientific - ForTran
+	Business   - COBOL
+

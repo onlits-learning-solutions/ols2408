@@ -13,7 +13,11 @@
             <a href="teacher.php">Teacher</a>
         </nav>
     </header>
-    <main></main>
-    <footer></footer>
+    <main>
+        <h3>Home</h3>
+    </main>
+    <footer>
+        <p>&copy;Copyright 2025</p>
+    </footer>
 </body>
 </html>

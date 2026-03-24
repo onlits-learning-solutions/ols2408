@@ -1,4 +1,7 @@
+#ifndef stdio.h
 #include <stdio.h>
+#endif
+
 #include <stdlib.h>
 
 typedef struct node

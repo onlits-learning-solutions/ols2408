@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.white {
+    color: white;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.grid-col-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
+
+.left {
+    padding: 20px;
+}
+
+.right {
+    padding: 20px;
+}
+
+.input-group {
+    display: inline;
+    margin-right: 20px;
+}

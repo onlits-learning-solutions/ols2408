@@ -1,42 +1,47 @@
 * {
     margin: 0;
-}
-
-.red {
-    color: red;
-}
-
-.blue {
-    color: blue;
-}
-
-.white {
-    color: white;
-}
-
-.bg-red {
-    background-color: red;
-}
-
-.bg-blue {
-    background-color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .grid-col-2 {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 10px;
 }
 
-.left {
-    padding: 20px;
+.grid-center {
+    height: 90vh;
+    align-content: center;
+    padding-left: 200px;
+}
+.form {
+
 }
 
-.right {
-    padding: 20px;
+.form input {
+    display: block;
+    padding: 5px;
+    margin-bottom: 10px;
+    width: 70%;
 }
 
-.input-group {
-    display: inline;
-    margin-right: 20px;
+.form label {
+
+}
+
+.title {
+    color: gray;
+}
+
+.header {
+    background-color: gray;
+    height: 5vh;
+}
+
+.nav {
+
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
 }
